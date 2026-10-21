@@ -1,0 +1,123 @@
+H1 {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 18px; FONT-WEIGHT: bold
+}
+H2 {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+H3 {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+H4 {
+	COLOR: #4362a5; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+H5 {
+	COLOR: #ff6900; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.tablehead {
+	COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px
+}
+.staff {
+	COLOR: #949494; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px
+}
+P {
+	COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px; LINE-HEIGHT: 1.2
+}
+B {
+	COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: bold; LINE-HEIGHT: 1.2
+}
+LI {
+	COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px; LINE-HEIGHT: 1.2
+}
+UL {
+	margin-left: 2em;
+	COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px; LINE-HEIGHT: 1.2
+}
+OL {
+	COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px; LINE-HEIGHT: 1.2
+}
+DT {
+	COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px; LINE-HEIGHT: 1.2
+}
+DL {
+	COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px; LINE-HEIGHT: 1.2
+}
+PRE {
+	FONT-FAMILY: Courier, monospace; FONT-SIZE: 12px
+}
+CODE {
+	COLOR: #4362a5; FONT-FAMILY: Courier, monospace; FONT-SIZE: 11px; LINE-HEIGHT: 1.2
+}
+SMALL {
+	COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 9px; LINE-HEIGHT: 1.2
+}
+BODY {
+	COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 11px; MARGIN: 0px
+}
+TD {
+	COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 11px
+}
+TH {
+	COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 11px
+}
+BR.menu1_ {
+`	FONT-SIZE: 4px
+}
+A {
+	COLOR: #2a4184
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+A.home {
+	COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 11px; TEXT-DECORATION: none
+}
+A.home:hover {
+	COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 11px; TEXT-DECORATION: underline
+}
+.headline {
+	COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 11px; FONT-WEIGHT: bold
+}
+A.news {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 11px; TEXT-DECORATION: none
+}
+A.news:hover {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 11px; TEXT-DECORATION: underline
+}
+A.menu1 {
+	line-height: 140%;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+A.menu1selected, A.menu1selected:hover {
+	line-height: 140%;
+	COLOR: #FF6900; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+A.menu2 {
+	margin-left: 1em;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 11px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+A.menu2selected, A.menu2selected:hover {
+	margin-left: 1em;
+	COLOR: #FF6900; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 11px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+A.menu3 {
+	margin-left: 2em;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 11px; TEXT-DECORATION: none
+}
+A.menu3selected, A.menu3selected:hover {
+	margin-left: 2em;
+	COLOR: #FF6900; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 11px; TEXT-DECORATION: none
+}
+A.menu1:hover, A.menu2:hover, A.menu3:hover {
+	TEXT-DECORATION: underline
+}
+.footer {
+	COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px
+}
+A.footer, A.menu0, P.footer, P.menu0 {
+	padding-top: 4px; padding-bottom: 4px;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+A.footer:hover, A.menu0:hover {
+	padding-top: 4px; padding-bottom: 4px;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px; TEXT-DECORATION: underline
+}

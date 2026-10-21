@@ -1,0 +1,57 @@
+<!--
+/*--------------- common styles ---------------------*/
+/* The color #336699 is the zulu-specific blue. */
+body {font-family: Verdana, Arial, Helvetica, sans-serif; color: #000000; line-height: 1.2; font-size: 11px}
+code {font-family: "Courier New", Courier, mono; color: #FF6900}
+pre  {font-family: "Courier New", Courier, mono;
+      color: black; background-color: #eeeeee;
+      border: 1pt solid; border-color: #336699; width: 0;
+      padding-right: 7pt; padding-left: 7pt; padding-top: 7pt; padding-bottom: 7pt;
+      overflow: auto; width: auto; white-space: pre; }
+p    {font-size: 10pt}
+tr   {font-size: 10pt}
+th   {font-size: 10pt; font-weight: bold; text-align: left; }
+h1, h2, h3, h4 {font-weight: bold; color: #336699}
+h1   {margin-top: 18; margin-bottom: 5; font-size: 18px}
+h2   {margin-top: 18; margin-bottom: 4; font-size: 16px}
+h3   {margin-top: 12; margin-bottom: 4; font-size: 12px}
+h4   {margin-top: 10; margin-bottom: 4; font-size: 11px}
+td   {}
+li   {}
+ul   {margin-top: 2; margin-bottom: 2}
+ol   {margin-top: 2; margin-bottom: 2}
+hr   {color: #336699; height: 1px}
+b    {color: #336699}
+img  {border: none}
+a          {color: #336699}
+a:hover    {color: #000077}
+a:visited  {color: #996699}
+
+/*--------------- Tables in the content-area ---------------------*/
+table { border-collapse: collapse; empty-cells: show; }
+table { width: 100%; }
+table.border { width: inherit; }
+td { padding-top: 3px;  padding-bottom: 3px; }
+table.border > tbody > tr > td { border: 1px solid lightgray; }
+
+/*--------------- Styles used in the template only ---------------------*/
+table.table_template {padding: none}
+table.table_template > tbody > tr > td {border-style: none}
+td.td_header_footer {color: #2a4184; padding-top: 3px;  padding-bottom: 3px;}
+td.td_header_footer > a         {color: #2a4184; text-decoration: none}
+td.td_header_footer > a:hover   {color: #2a4184; text-decoration: underline}
+td.td_header_footer > a:visited {color: #2a4184; text-decoration: none}
+/*--------------- Styles used for the navigation-menu on the left side ---------------------*/
+td.td_menu              {color: #FF6900; font-weight: bold}
+td.td_menu > a            {color: #2a4184; font-weight: bold; text-decoration: none}
+td.td_menu > a:visited    {color: #2a4184}
+td.td_menu > a:hover      {color: #2a4184; text-decoration: underline}
+td.td_menu > span.fixed   {color: #FF6900; font-family: "Courier New", Courier, mono; font-weight: bold}
+/*--------------- Styles used for the center area ---------------------*/
+/*
+td.td_center              {color: blue; font-weight: bold}
+td.td_center a            {color: blue; font-weight: bold; text-decoration: none}
+td.td_center a:visited    {color: blue}
+td.td_center a:hover      {color: blue; text-decoration: underline}
+td.td_center span.fixed   {color: blue; font-family: "Courier New", Courier, mono; font-weight: bold}
+*/

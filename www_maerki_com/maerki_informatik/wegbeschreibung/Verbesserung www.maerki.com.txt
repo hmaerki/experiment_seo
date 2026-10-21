@@ -1,0 +1,39 @@
+From: Paul Maerki und Monique Bonanomi [maerki@freesurf.ch]
+Sent: Sonntag, 29. September 2002 00:48
+To: Hans Maerki
+Subject: Verbesserung www.maerki.com
+
+Meilen, 29. 09. 2002
+
+Lieber Hans,
+hier sind die Grundlagen für eine Verbesserung Deiner Webseite:
+
+A.
+Unter dem Titel "Mit Bahn und Bus zur Post Hombrechtikon"
+den Fahrplan löschen und statt dessen schreiben:
+
+Den Fahrplan von Bahn und Bus finden Sie auf Webseite http://fahrplan.zvv.ch/. Schreiben
+Sie als Zielstation die Haltestelle "Post Hombrechtikon". Als Umsteigestationen von der
+Bahn auf den Bus wählen Sie Bubikon, Feldbach oder Stäfa.
+
+B.
+Das Bild rechts davon ersetzen durch
+1.gif, 219x142 Pixel (10 KB)
+
+C.
+Das Bild nach dem Titel "Zu Fuss in 5 Minuten von der Post Hombrechtikon bis zum Aehrenweg
+6"
+ersetzen durch
+2.gif, 432x526 Pixel (51 KB)
+
+Falls Du das Bild 2.gif zu gross findest, nimmst Du statt dessen das Bild
+3.jpg, 312x200 Pixel (19 KB)
+und erst mit dem Klick auf dieses Bild kommt man zum Bild 2.gif
+
+D.
+Alle übrigen Texte zur Wegbeschreibung finde ich noch gut.
+
+Herzliche Grüsse Paul
+
+
+

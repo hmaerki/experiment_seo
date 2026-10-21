@@ -1,0 +1,67 @@
+#
+# ALPUMA Configuration File
+#
+
+alpuma_config_version = '1.0.0'
+
+input_path = 'images_orig'
+
+conversions = (
+  {
+    'output_path' : 'thumbs',
+    'size_max_height'  : 600,
+    'size_max_width'   : 400,
+    'quality'          : 70,
+  },
+  {
+    'output_path' : 'images',
+    'size_max_height'  : 1000,
+    'size_max_width'   : 1400,
+    'quality'          : 70,
+  }
+)
+
+html_filename   = 'index.zulu_content.html'
+
+html_img_files     = (
+                       'thumbs/{fileroot}_alpuma_override{fileext}',
+                       'thumbs/{file}'
+                     )
+
+html_template_file = """
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title></title>
+</head>
+
+<body>
+<!--ZuluMarkerStart-->
+<link rel="stylesheet" href="../lytebox_v3.22/lytebox.css" type="text/css" media="screen" />
+<script type="text/javascript" src="../lytebox_v3.22/lytebox.js">
+</script>
+
+<h1>Titel</h1>
+
+<table border="0" cellpadding="0" cellspacing="10" width="95%">
+  <!--AlpumaInsert-->
+  <tbody>
+  </tbody>
+</table>
+<!--ZuluMarkerEnd-->
+</body>
+</html>
+"""
+
+html_template_image = """
+    <tr>
+      <td width="50%">
+        BlaBla
+      </td>
+      <td><a href="images/{file}" rel="lyteshow[dummy]"><img src="thumbs/{file}" alt="Grossformat" border="0" width="xxx" height="xxx"/></a></td>
+    </tr>
+"""
+
